@@ -1,0 +1,15 @@
+executable = /home/wluszczak/KDE_csky/tdep/scripts/time_dep.sh
+
+log = /scratch/wluszczak/muons/do_analysis.log
+output = /dev/null
+error = /dev/null
+initialdir = /home/wluszczak
+
+notification = Complete
+
+args = $(inputseed) $(nevents) $(gamma) $(t0) $(dt)
+
+request_memory = 6000
+
+queue
+

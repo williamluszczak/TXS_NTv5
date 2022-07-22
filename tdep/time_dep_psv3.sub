@@ -1,0 +1,17 @@
+executable = /home/wluszczak/KDE_csky/tdep/scripts/time_dep_psv3.sh
+
+log = /scratch/wluszczak/muons/do_analysis.log
+output = /dev/null
+error = /dev/null
+initialdir = /home/wluszczak
+
+notification = Complete
+
+args = $(inputseed) $(nevents) $(gamma) $(t0) $(dt)
+
+request_memory = 6000
+
++AccountingGroup="uwa.$ENV(USER)"
+
+queue
+
