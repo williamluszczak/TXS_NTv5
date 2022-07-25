@@ -116,7 +116,6 @@ gamma = float(sys.argv[3])
 t0 = float(sys.argv[4])
 dt = float(sys.argv[5])
 
-#TXS best fit values
 
 base_path='/data/user/hmniederhausen/point_sources/skyllh/v005p00/frankenstein/input/'
 
@@ -126,16 +125,6 @@ bkg_pdf = psp.SplineTable(os.path.join(base_path, 'bg_2d_photospline.fits'))
 
 srcs = cy.sources(1.35049651, 0.09828762, name=50579430)
 names = [50579430]
-#srcfile = np.load('/home/wluszczak/KDE_csky/tdep/scripts/large_catalog.npy')
-#srcfile = srcfile[srcfile['event']==50579430]
-#ras = srcfile['ra']
-##ras = np.random.uniform(0., 2.*np.pi, size=len(srcfile['ra']))
-#decs = srcfile['dec']
-#names = srcfile['event']
-#print("loc", ras, decs)
-#srcs = cy.sources(ras, decs, name=names)
-
-#mtr = cy.conf.get_multiflare_trial_runner(ana=ana, src=srcs, threshold=100., space='generic', func=calc_sb_ratio,features={'ev_ra':'ra', 'ev_dec':'dec', 'ev_angErr':'sigma', 'ev_logE':'log10energy'}, fits={'gamma':(1.0,2.0,3.0,4.0)}, extra_keep=['dec', 'sigma', 'event'], energy=False, concat_evs=True, flux=hyp.PowerLawFlux(gamma), muonflag=True)
 mtr = cy.conf.get_multiflare_trial_runner(ana=ana, src=srcs, threshold=100., extra_keep=['dec', 'sigma'])
 
 all_fits = []
@@ -148,19 +137,10 @@ for i in range(0,1):
         print("injflares is", injflares)
         mtr_trial = mtr.get_one_trial(seed=trialseed, injflares=injflares, TRUTH=False)
     else:
-        mtr_trial = mtr.get_one_trial(seed=trialseed, TRUTH=True)
-
-#    new_trial = copy.deepcopy(mtr_trial)
-#    for k in range(0,len(mtr_trial[0])):
-#        print("removing event", srcname)
-#        ev_mask = (mtr_trial[0][k][0].event in srcfile['event'])
-#        new_trial[0][k][0] = mtr_trial[0][k][0][~ev_mask]
-
+        mtr_trial = mtr.get_one_trial(seed=trialseed, TRUTH=False)
 
     mtr_fit = mtr.get_one_fit_from_trial(mtr_trial, flat=False, _fmin_epsilon=1e-3)
     print("mtr_fit is", mtr_fit)
-#    print(mtr_fit.keys())
-#    print(mtr_fit[list(mtr_fit.keys())[0]][-1])
     nice_output = {}
     for evt_id in names:
         flist = mtr_fit[evt_id][-1]
@@ -182,7 +162,6 @@ for i in range(0,1):
     print(nice_output)
     t2 = time.time()
     print("time taken:", t2-t1)
-    #all_fits.append(farr)
     multiple_trials.append(nice_output)
 print(multiple_trials)
 
@@ -190,5 +169,4 @@ if nevts!=0.:
     np.save('/data/user/wluszczak/KDE_csky/sigtrials/psv3/psv3_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed), multiple_trials)
 
 else:
-#    np.save('/data/user/wluszczak/KDE_csky/tdep/bg/txs_bg_flares_%s.npy'%(inputseed), multiple_trials)
     np.save('/data/user/wluszczak/KDE_csky/bgtrials/psv3/psv3_bg_flares_%s.npy'%(inputseed), multiple_trials)
