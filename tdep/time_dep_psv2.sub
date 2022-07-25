@@ -7,7 +7,7 @@ initialdir = /home/wluszczak
 
 notification = Complete
 
-args = $(inputseed) $(nevents) $(gamma) $(t0) $(dt)
+args = $(inputseed) $(nevents) $(gamma) $(t0) $(dt) $(outputdir)
 
 request_memory = 6000
 

@@ -115,7 +115,7 @@ nevts = float(sys.argv[2])
 gamma = float(sys.argv[3])
 t0 = float(sys.argv[4])
 dt = float(sys.argv[5])
-
+outputdir = str(sys.argv[6])
 
 base_path='/data/user/hmniederhausen/point_sources/skyllh/v005p00/frankenstein/input/'
 
@@ -165,8 +165,5 @@ for i in range(0,1):
     multiple_trials.append(nice_output)
 print(multiple_trials)
 
-if nevts!=0.:
-    np.save('/data/user/wluszczak/KDE_csky/sigtrials/psv3/psv3_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed), multiple_trials)
-
-else:
-    np.save('/data/user/wluszczak/KDE_csky/bgtrials/psv3/psv3_bg_flares_%s.npy'%(inputseed), multiple_trials)
+outputfile = outputdir + '/psv3_output_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed)
+np.save(outputfile, multiple_trials)

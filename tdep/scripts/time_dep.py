@@ -113,7 +113,7 @@ nevts = float(sys.argv[2])
 gamma = float(sys.argv[3])
 t0 = float(sys.argv[4])
 dt = float(sys.argv[5])
-
+outputdir = str(sys.argv[6])
 
 base_path='/data/user/hmniederhausen/point_sources/skyllh/v005p00/frankenstein/input/'
 
@@ -129,7 +129,7 @@ mtr = cy.conf.get_multiflare_trial_runner(ana=ana, src=srcs, threshold=100., spa
 
 all_fits = []
 multiple_trials = []
-for i in range(0,1):
+for i in range(0,50):
     t1 = time.time()
     trialseed = (inputseed*100)+i
     if nevts!=0.:
@@ -166,8 +166,11 @@ for i in range(0,1):
     multiple_trials.append(nice_output)
 print(multiple_trials)
 
-if nevts!=0.:
-    np.save('/data/user/wluszczak/KDE_csky/sigtrials/ntv5/txs_flares_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed), multiple_trials)
+outputfile = outputdir + '/ntv5_output_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed)
+np.save(outputfile, multiple_trials)
 
-else:
-    np.save('/data/user/wluszczak/KDE_csky/bgtrials/txs_bg_flares_%s.npy'%(inputseed), multiple_trials)
+#if nevts!=0.:
+#    np.save('/data/user/wluszczak/KDE_csky/sigtrials/ntv5/txs_flares_%s_%s_%s_%s_%s.npy'%(nevts, gamma, t0, dt, inputseed), multiple_trials)
+
+#else:
+#    np.save('/data/user/wluszczak/KDE_csky/bgtrials/txs_bg_flares_%s.npy'%(inputseed), multiple_trials)
