@@ -8,7 +8,7 @@ The first step in reproducing the fit bias plots is to run the included `generat
 Once both this script has finished running, you should be able to run the included `Notebooks/FitBias.ipynb` notebook to reproduce the relevant plots. Note that for the time dependent fits this notebook makes use of pre-generated trials that exist in `/data/user/wluszczak/KDE_csky/reproducibility/`. If you wish, you can generate your own version of these trials using the cluster and the provided scripts. The following script will create a dagman that can be submitted to the cluster to generate your own version of these trials:
 
 ```
-python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt)
+python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt) > my_fitbias_dagman.dag
 ```
 
 Where:
@@ -22,7 +22,7 @@ I've included an example dagman `Notebooks/sens_ntv5.dag` to give you an idea of
 Once you have the dagman assembled, you should be able to submit it from the submitter node as normal, provided that you have copied over the appropriate files to your submission directory (in this case, just the dagman and the submission script `time_dep.sub`):
 
 ```
-condor_submit_dag sens_ntv5.dag
+condor_submit_dag my_fitbias_dagman.dag
 ```
 Once you have these trials generated, you might need to modify the python notebook to use your files instead of mine. This can be done by simply changing the `trialfile_dir` variable in the first cell:
 
