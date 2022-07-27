@@ -24,3 +24,8 @@ Once you have the dagman assembled, you should be able to submit it from the sub
 ```
 condor_submit_dag sens_ntv5.dag
 ```
+Once you have these trials generated, you might need to modify the python notebook to use your files instead of mine. This can be done by simply changing the `trialfile_dir` variable in the first cell:
+
+```
+trialfile_dir = '$(directory where you told the dagman to write your files)'
+```
