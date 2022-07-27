@@ -1,1000 +1,1000 @@
 JOB 0 time_dep_psv2.sub 
-VARS 0 inputseed="0" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 0 inputseed="0" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 1 time_dep_psv2.sub 
-VARS 1 inputseed="1" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 1 inputseed="1" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 2 time_dep_psv2.sub 
-VARS 2 inputseed="2" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 2 inputseed="2" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 3 time_dep_psv2.sub 
-VARS 3 inputseed="3" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 3 inputseed="3" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 4 time_dep_psv2.sub 
-VARS 4 inputseed="4" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 4 inputseed="4" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 5 time_dep_psv2.sub 
-VARS 5 inputseed="5" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 5 inputseed="5" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 6 time_dep_psv2.sub 
-VARS 6 inputseed="6" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 6 inputseed="6" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 7 time_dep_psv2.sub 
-VARS 7 inputseed="7" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 7 inputseed="7" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 8 time_dep_psv2.sub 
-VARS 8 inputseed="8" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 8 inputseed="8" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 9 time_dep_psv2.sub 
-VARS 9 inputseed="9" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 9 inputseed="9" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 10 time_dep_psv2.sub 
-VARS 10 inputseed="10" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 10 inputseed="10" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 11 time_dep_psv2.sub 
-VARS 11 inputseed="11" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 11 inputseed="11" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 12 time_dep_psv2.sub 
-VARS 12 inputseed="12" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 12 inputseed="12" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 13 time_dep_psv2.sub 
-VARS 13 inputseed="13" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 13 inputseed="13" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 14 time_dep_psv2.sub 
-VARS 14 inputseed="14" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 14 inputseed="14" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 15 time_dep_psv2.sub 
-VARS 15 inputseed="15" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 15 inputseed="15" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 16 time_dep_psv2.sub 
-VARS 16 inputseed="16" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 16 inputseed="16" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 17 time_dep_psv2.sub 
-VARS 17 inputseed="17" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 17 inputseed="17" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 18 time_dep_psv2.sub 
-VARS 18 inputseed="18" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 18 inputseed="18" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 19 time_dep_psv2.sub 
-VARS 19 inputseed="19" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 19 inputseed="19" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 20 time_dep_psv2.sub 
-VARS 20 inputseed="20" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 20 inputseed="20" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 21 time_dep_psv2.sub 
-VARS 21 inputseed="21" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 21 inputseed="21" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 22 time_dep_psv2.sub 
-VARS 22 inputseed="22" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 22 inputseed="22" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 23 time_dep_psv2.sub 
-VARS 23 inputseed="23" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 23 inputseed="23" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 24 time_dep_psv2.sub 
-VARS 24 inputseed="24" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 24 inputseed="24" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 25 time_dep_psv2.sub 
-VARS 25 inputseed="25" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 25 inputseed="25" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 26 time_dep_psv2.sub 
-VARS 26 inputseed="26" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 26 inputseed="26" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 27 time_dep_psv2.sub 
-VARS 27 inputseed="27" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 27 inputseed="27" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 28 time_dep_psv2.sub 
-VARS 28 inputseed="28" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 28 inputseed="28" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 29 time_dep_psv2.sub 
-VARS 29 inputseed="29" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 29 inputseed="29" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 30 time_dep_psv2.sub 
-VARS 30 inputseed="30" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 30 inputseed="30" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 31 time_dep_psv2.sub 
-VARS 31 inputseed="31" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 31 inputseed="31" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 32 time_dep_psv2.sub 
-VARS 32 inputseed="32" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 32 inputseed="32" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 33 time_dep_psv2.sub 
-VARS 33 inputseed="33" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 33 inputseed="33" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 34 time_dep_psv2.sub 
-VARS 34 inputseed="34" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 34 inputseed="34" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 35 time_dep_psv2.sub 
-VARS 35 inputseed="35" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 35 inputseed="35" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 36 time_dep_psv2.sub 
-VARS 36 inputseed="36" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 36 inputseed="36" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 37 time_dep_psv2.sub 
-VARS 37 inputseed="37" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 37 inputseed="37" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 38 time_dep_psv2.sub 
-VARS 38 inputseed="38" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 38 inputseed="38" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 39 time_dep_psv2.sub 
-VARS 39 inputseed="39" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 39 inputseed="39" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 40 time_dep_psv2.sub 
-VARS 40 inputseed="40" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 40 inputseed="40" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 41 time_dep_psv2.sub 
-VARS 41 inputseed="41" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 41 inputseed="41" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 42 time_dep_psv2.sub 
-VARS 42 inputseed="42" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 42 inputseed="42" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 43 time_dep_psv2.sub 
-VARS 43 inputseed="43" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 43 inputseed="43" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 44 time_dep_psv2.sub 
-VARS 44 inputseed="44" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 44 inputseed="44" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 45 time_dep_psv2.sub 
-VARS 45 inputseed="45" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 45 inputseed="45" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 46 time_dep_psv2.sub 
-VARS 46 inputseed="46" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 46 inputseed="46" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 47 time_dep_psv2.sub 
-VARS 47 inputseed="47" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 47 inputseed="47" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 48 time_dep_psv2.sub 
-VARS 48 inputseed="48" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 48 inputseed="48" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 49 time_dep_psv2.sub 
-VARS 49 inputseed="49" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 49 inputseed="49" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 50 time_dep_psv2.sub 
-VARS 50 inputseed="50" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 50 inputseed="50" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 51 time_dep_psv2.sub 
-VARS 51 inputseed="51" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 51 inputseed="51" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 52 time_dep_psv2.sub 
-VARS 52 inputseed="52" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 52 inputseed="52" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 53 time_dep_psv2.sub 
-VARS 53 inputseed="53" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 53 inputseed="53" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 54 time_dep_psv2.sub 
-VARS 54 inputseed="54" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 54 inputseed="54" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 55 time_dep_psv2.sub 
-VARS 55 inputseed="55" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 55 inputseed="55" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 56 time_dep_psv2.sub 
-VARS 56 inputseed="56" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 56 inputseed="56" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 57 time_dep_psv2.sub 
-VARS 57 inputseed="57" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 57 inputseed="57" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 58 time_dep_psv2.sub 
-VARS 58 inputseed="58" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 58 inputseed="58" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 59 time_dep_psv2.sub 
-VARS 59 inputseed="59" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 59 inputseed="59" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 60 time_dep_psv2.sub 
-VARS 60 inputseed="60" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 60 inputseed="60" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 61 time_dep_psv2.sub 
-VARS 61 inputseed="61" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 61 inputseed="61" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 62 time_dep_psv2.sub 
-VARS 62 inputseed="62" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 62 inputseed="62" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 63 time_dep_psv2.sub 
-VARS 63 inputseed="63" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 63 inputseed="63" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 64 time_dep_psv2.sub 
-VARS 64 inputseed="64" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 64 inputseed="64" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 65 time_dep_psv2.sub 
-VARS 65 inputseed="65" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 65 inputseed="65" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 66 time_dep_psv2.sub 
-VARS 66 inputseed="66" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 66 inputseed="66" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 67 time_dep_psv2.sub 
-VARS 67 inputseed="67" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 67 inputseed="67" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 68 time_dep_psv2.sub 
-VARS 68 inputseed="68" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 68 inputseed="68" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 69 time_dep_psv2.sub 
-VARS 69 inputseed="69" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 69 inputseed="69" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 70 time_dep_psv2.sub 
-VARS 70 inputseed="70" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 70 inputseed="70" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 71 time_dep_psv2.sub 
-VARS 71 inputseed="71" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 71 inputseed="71" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 72 time_dep_psv2.sub 
-VARS 72 inputseed="72" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 72 inputseed="72" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 73 time_dep_psv2.sub 
-VARS 73 inputseed="73" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 73 inputseed="73" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 74 time_dep_psv2.sub 
-VARS 74 inputseed="74" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 74 inputseed="74" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 75 time_dep_psv2.sub 
-VARS 75 inputseed="75" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 75 inputseed="75" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 76 time_dep_psv2.sub 
-VARS 76 inputseed="76" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 76 inputseed="76" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 77 time_dep_psv2.sub 
-VARS 77 inputseed="77" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 77 inputseed="77" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 78 time_dep_psv2.sub 
-VARS 78 inputseed="78" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 78 inputseed="78" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 79 time_dep_psv2.sub 
-VARS 79 inputseed="79" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 79 inputseed="79" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 80 time_dep_psv2.sub 
-VARS 80 inputseed="80" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 80 inputseed="80" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 81 time_dep_psv2.sub 
-VARS 81 inputseed="81" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 81 inputseed="81" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 82 time_dep_psv2.sub 
-VARS 82 inputseed="82" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 82 inputseed="82" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 83 time_dep_psv2.sub 
-VARS 83 inputseed="83" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 83 inputseed="83" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 84 time_dep_psv2.sub 
-VARS 84 inputseed="84" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 84 inputseed="84" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 85 time_dep_psv2.sub 
-VARS 85 inputseed="85" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 85 inputseed="85" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 86 time_dep_psv2.sub 
-VARS 86 inputseed="86" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 86 inputseed="86" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 87 time_dep_psv2.sub 
-VARS 87 inputseed="87" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 87 inputseed="87" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 88 time_dep_psv2.sub 
-VARS 88 inputseed="88" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 88 inputseed="88" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 89 time_dep_psv2.sub 
-VARS 89 inputseed="89" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 89 inputseed="89" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 90 time_dep_psv2.sub 
-VARS 90 inputseed="90" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 90 inputseed="90" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 91 time_dep_psv2.sub 
-VARS 91 inputseed="91" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 91 inputseed="91" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 92 time_dep_psv2.sub 
-VARS 92 inputseed="92" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 92 inputseed="92" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 93 time_dep_psv2.sub 
-VARS 93 inputseed="93" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 93 inputseed="93" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 94 time_dep_psv2.sub 
-VARS 94 inputseed="94" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 94 inputseed="94" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 95 time_dep_psv2.sub 
-VARS 95 inputseed="95" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 95 inputseed="95" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 96 time_dep_psv2.sub 
-VARS 96 inputseed="96" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 96 inputseed="96" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 97 time_dep_psv2.sub 
-VARS 97 inputseed="97" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 97 inputseed="97" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 98 time_dep_psv2.sub 
-VARS 98 inputseed="98" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 98 inputseed="98" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 99 time_dep_psv2.sub 
-VARS 99 inputseed="99" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 99 inputseed="99" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 100 time_dep_psv2.sub 
-VARS 100 inputseed="100" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 100 inputseed="100" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 101 time_dep_psv2.sub 
-VARS 101 inputseed="101" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 101 inputseed="101" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 102 time_dep_psv2.sub 
-VARS 102 inputseed="102" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 102 inputseed="102" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 103 time_dep_psv2.sub 
-VARS 103 inputseed="103" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 103 inputseed="103" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 104 time_dep_psv2.sub 
-VARS 104 inputseed="104" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 104 inputseed="104" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 105 time_dep_psv2.sub 
-VARS 105 inputseed="105" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 105 inputseed="105" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 106 time_dep_psv2.sub 
-VARS 106 inputseed="106" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 106 inputseed="106" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 107 time_dep_psv2.sub 
-VARS 107 inputseed="107" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 107 inputseed="107" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 108 time_dep_psv2.sub 
-VARS 108 inputseed="108" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 108 inputseed="108" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 109 time_dep_psv2.sub 
-VARS 109 inputseed="109" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 109 inputseed="109" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 110 time_dep_psv2.sub 
-VARS 110 inputseed="110" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 110 inputseed="110" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 111 time_dep_psv2.sub 
-VARS 111 inputseed="111" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 111 inputseed="111" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 112 time_dep_psv2.sub 
-VARS 112 inputseed="112" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 112 inputseed="112" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 113 time_dep_psv2.sub 
-VARS 113 inputseed="113" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 113 inputseed="113" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 114 time_dep_psv2.sub 
-VARS 114 inputseed="114" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 114 inputseed="114" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 115 time_dep_psv2.sub 
-VARS 115 inputseed="115" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 115 inputseed="115" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 116 time_dep_psv2.sub 
-VARS 116 inputseed="116" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 116 inputseed="116" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 117 time_dep_psv2.sub 
-VARS 117 inputseed="117" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 117 inputseed="117" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 118 time_dep_psv2.sub 
-VARS 118 inputseed="118" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 118 inputseed="118" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 119 time_dep_psv2.sub 
-VARS 119 inputseed="119" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 119 inputseed="119" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 120 time_dep_psv2.sub 
-VARS 120 inputseed="120" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 120 inputseed="120" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 121 time_dep_psv2.sub 
-VARS 121 inputseed="121" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 121 inputseed="121" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 122 time_dep_psv2.sub 
-VARS 122 inputseed="122" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 122 inputseed="122" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 123 time_dep_psv2.sub 
-VARS 123 inputseed="123" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 123 inputseed="123" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 124 time_dep_psv2.sub 
-VARS 124 inputseed="124" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 124 inputseed="124" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 125 time_dep_psv2.sub 
-VARS 125 inputseed="125" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 125 inputseed="125" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 126 time_dep_psv2.sub 
-VARS 126 inputseed="126" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 126 inputseed="126" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 127 time_dep_psv2.sub 
-VARS 127 inputseed="127" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 127 inputseed="127" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 128 time_dep_psv2.sub 
-VARS 128 inputseed="128" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 128 inputseed="128" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 129 time_dep_psv2.sub 
-VARS 129 inputseed="129" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 129 inputseed="129" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 130 time_dep_psv2.sub 
-VARS 130 inputseed="130" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 130 inputseed="130" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 131 time_dep_psv2.sub 
-VARS 131 inputseed="131" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 131 inputseed="131" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 132 time_dep_psv2.sub 
-VARS 132 inputseed="132" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 132 inputseed="132" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 133 time_dep_psv2.sub 
-VARS 133 inputseed="133" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 133 inputseed="133" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 134 time_dep_psv2.sub 
-VARS 134 inputseed="134" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 134 inputseed="134" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 135 time_dep_psv2.sub 
-VARS 135 inputseed="135" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 135 inputseed="135" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 136 time_dep_psv2.sub 
-VARS 136 inputseed="136" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 136 inputseed="136" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 137 time_dep_psv2.sub 
-VARS 137 inputseed="137" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 137 inputseed="137" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 138 time_dep_psv2.sub 
-VARS 138 inputseed="138" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 138 inputseed="138" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 139 time_dep_psv2.sub 
-VARS 139 inputseed="139" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 139 inputseed="139" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 140 time_dep_psv2.sub 
-VARS 140 inputseed="140" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 140 inputseed="140" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 141 time_dep_psv2.sub 
-VARS 141 inputseed="141" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 141 inputseed="141" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 142 time_dep_psv2.sub 
-VARS 142 inputseed="142" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 142 inputseed="142" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 143 time_dep_psv2.sub 
-VARS 143 inputseed="143" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 143 inputseed="143" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 144 time_dep_psv2.sub 
-VARS 144 inputseed="144" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 144 inputseed="144" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 145 time_dep_psv2.sub 
-VARS 145 inputseed="145" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 145 inputseed="145" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 146 time_dep_psv2.sub 
-VARS 146 inputseed="146" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 146 inputseed="146" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 147 time_dep_psv2.sub 
-VARS 147 inputseed="147" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 147 inputseed="147" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 148 time_dep_psv2.sub 
-VARS 148 inputseed="148" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 148 inputseed="148" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 149 time_dep_psv2.sub 
-VARS 149 inputseed="149" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 149 inputseed="149" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 150 time_dep_psv2.sub 
-VARS 150 inputseed="150" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 150 inputseed="150" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 151 time_dep_psv2.sub 
-VARS 151 inputseed="151" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 151 inputseed="151" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 152 time_dep_psv2.sub 
-VARS 152 inputseed="152" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 152 inputseed="152" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 153 time_dep_psv2.sub 
-VARS 153 inputseed="153" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 153 inputseed="153" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 154 time_dep_psv2.sub 
-VARS 154 inputseed="154" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 154 inputseed="154" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 155 time_dep_psv2.sub 
-VARS 155 inputseed="155" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 155 inputseed="155" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 156 time_dep_psv2.sub 
-VARS 156 inputseed="156" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 156 inputseed="156" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 157 time_dep_psv2.sub 
-VARS 157 inputseed="157" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 157 inputseed="157" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 158 time_dep_psv2.sub 
-VARS 158 inputseed="158" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 158 inputseed="158" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 159 time_dep_psv2.sub 
-VARS 159 inputseed="159" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 159 inputseed="159" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 160 time_dep_psv2.sub 
-VARS 160 inputseed="160" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 160 inputseed="160" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 161 time_dep_psv2.sub 
-VARS 161 inputseed="161" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 161 inputseed="161" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 162 time_dep_psv2.sub 
-VARS 162 inputseed="162" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 162 inputseed="162" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 163 time_dep_psv2.sub 
-VARS 163 inputseed="163" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 163 inputseed="163" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 164 time_dep_psv2.sub 
-VARS 164 inputseed="164" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 164 inputseed="164" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 165 time_dep_psv2.sub 
-VARS 165 inputseed="165" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 165 inputseed="165" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 166 time_dep_psv2.sub 
-VARS 166 inputseed="166" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 166 inputseed="166" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 167 time_dep_psv2.sub 
-VARS 167 inputseed="167" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 167 inputseed="167" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 168 time_dep_psv2.sub 
-VARS 168 inputseed="168" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 168 inputseed="168" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 169 time_dep_psv2.sub 
-VARS 169 inputseed="169" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 169 inputseed="169" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 170 time_dep_psv2.sub 
-VARS 170 inputseed="170" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 170 inputseed="170" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 171 time_dep_psv2.sub 
-VARS 171 inputseed="171" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 171 inputseed="171" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 172 time_dep_psv2.sub 
-VARS 172 inputseed="172" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 172 inputseed="172" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 173 time_dep_psv2.sub 
-VARS 173 inputseed="173" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 173 inputseed="173" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 174 time_dep_psv2.sub 
-VARS 174 inputseed="174" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 174 inputseed="174" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 175 time_dep_psv2.sub 
-VARS 175 inputseed="175" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 175 inputseed="175" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 176 time_dep_psv2.sub 
-VARS 176 inputseed="176" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 176 inputseed="176" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 177 time_dep_psv2.sub 
-VARS 177 inputseed="177" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 177 inputseed="177" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 178 time_dep_psv2.sub 
-VARS 178 inputseed="178" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 178 inputseed="178" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 179 time_dep_psv2.sub 
-VARS 179 inputseed="179" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 179 inputseed="179" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 180 time_dep_psv2.sub 
-VARS 180 inputseed="180" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 180 inputseed="180" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 181 time_dep_psv2.sub 
-VARS 181 inputseed="181" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 181 inputseed="181" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 182 time_dep_psv2.sub 
-VARS 182 inputseed="182" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 182 inputseed="182" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 183 time_dep_psv2.sub 
-VARS 183 inputseed="183" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 183 inputseed="183" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 184 time_dep_psv2.sub 
-VARS 184 inputseed="184" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 184 inputseed="184" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 185 time_dep_psv2.sub 
-VARS 185 inputseed="185" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 185 inputseed="185" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 186 time_dep_psv2.sub 
-VARS 186 inputseed="186" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 186 inputseed="186" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 187 time_dep_psv2.sub 
-VARS 187 inputseed="187" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 187 inputseed="187" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 188 time_dep_psv2.sub 
-VARS 188 inputseed="188" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 188 inputseed="188" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 189 time_dep_psv2.sub 
-VARS 189 inputseed="189" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 189 inputseed="189" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 190 time_dep_psv2.sub 
-VARS 190 inputseed="190" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 190 inputseed="190" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 191 time_dep_psv2.sub 
-VARS 191 inputseed="191" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 191 inputseed="191" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 192 time_dep_psv2.sub 
-VARS 192 inputseed="192" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 192 inputseed="192" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 193 time_dep_psv2.sub 
-VARS 193 inputseed="193" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 193 inputseed="193" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 194 time_dep_psv2.sub 
-VARS 194 inputseed="194" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 194 inputseed="194" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 195 time_dep_psv2.sub 
-VARS 195 inputseed="195" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 195 inputseed="195" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 196 time_dep_psv2.sub 
-VARS 196 inputseed="196" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 196 inputseed="196" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 197 time_dep_psv2.sub 
-VARS 197 inputseed="197" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 197 inputseed="197" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 198 time_dep_psv2.sub 
-VARS 198 inputseed="198" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 198 inputseed="198" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 199 time_dep_psv2.sub 
-VARS 199 inputseed="199" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 199 inputseed="199" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 200 time_dep_psv2.sub 
-VARS 200 inputseed="200" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 200 inputseed="200" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 201 time_dep_psv2.sub 
-VARS 201 inputseed="201" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 201 inputseed="201" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 202 time_dep_psv2.sub 
-VARS 202 inputseed="202" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 202 inputseed="202" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 203 time_dep_psv2.sub 
-VARS 203 inputseed="203" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 203 inputseed="203" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 204 time_dep_psv2.sub 
-VARS 204 inputseed="204" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 204 inputseed="204" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 205 time_dep_psv2.sub 
-VARS 205 inputseed="205" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 205 inputseed="205" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 206 time_dep_psv2.sub 
-VARS 206 inputseed="206" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 206 inputseed="206" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 207 time_dep_psv2.sub 
-VARS 207 inputseed="207" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 207 inputseed="207" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 208 time_dep_psv2.sub 
-VARS 208 inputseed="208" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 208 inputseed="208" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 209 time_dep_psv2.sub 
-VARS 209 inputseed="209" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 209 inputseed="209" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 210 time_dep_psv2.sub 
-VARS 210 inputseed="210" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 210 inputseed="210" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 211 time_dep_psv2.sub 
-VARS 211 inputseed="211" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 211 inputseed="211" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 212 time_dep_psv2.sub 
-VARS 212 inputseed="212" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 212 inputseed="212" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 213 time_dep_psv2.sub 
-VARS 213 inputseed="213" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 213 inputseed="213" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 214 time_dep_psv2.sub 
-VARS 214 inputseed="214" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 214 inputseed="214" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 215 time_dep_psv2.sub 
-VARS 215 inputseed="215" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 215 inputseed="215" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 216 time_dep_psv2.sub 
-VARS 216 inputseed="216" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 216 inputseed="216" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 217 time_dep_psv2.sub 
-VARS 217 inputseed="217" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 217 inputseed="217" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 218 time_dep_psv2.sub 
-VARS 218 inputseed="218" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 218 inputseed="218" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 219 time_dep_psv2.sub 
-VARS 219 inputseed="219" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 219 inputseed="219" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 220 time_dep_psv2.sub 
-VARS 220 inputseed="220" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 220 inputseed="220" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 221 time_dep_psv2.sub 
-VARS 221 inputseed="221" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 221 inputseed="221" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 222 time_dep_psv2.sub 
-VARS 222 inputseed="222" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 222 inputseed="222" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 223 time_dep_psv2.sub 
-VARS 223 inputseed="223" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 223 inputseed="223" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 224 time_dep_psv2.sub 
-VARS 224 inputseed="224" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 224 inputseed="224" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 225 time_dep_psv2.sub 
-VARS 225 inputseed="225" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 225 inputseed="225" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 226 time_dep_psv2.sub 
-VARS 226 inputseed="226" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 226 inputseed="226" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 227 time_dep_psv2.sub 
-VARS 227 inputseed="227" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 227 inputseed="227" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 228 time_dep_psv2.sub 
-VARS 228 inputseed="228" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 228 inputseed="228" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 229 time_dep_psv2.sub 
-VARS 229 inputseed="229" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 229 inputseed="229" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 230 time_dep_psv2.sub 
-VARS 230 inputseed="230" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 230 inputseed="230" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 231 time_dep_psv2.sub 
-VARS 231 inputseed="231" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 231 inputseed="231" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 232 time_dep_psv2.sub 
-VARS 232 inputseed="232" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 232 inputseed="232" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 233 time_dep_psv2.sub 
-VARS 233 inputseed="233" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 233 inputseed="233" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 234 time_dep_psv2.sub 
-VARS 234 inputseed="234" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 234 inputseed="234" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 235 time_dep_psv2.sub 
-VARS 235 inputseed="235" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 235 inputseed="235" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 236 time_dep_psv2.sub 
-VARS 236 inputseed="236" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 236 inputseed="236" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 237 time_dep_psv2.sub 
-VARS 237 inputseed="237" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 237 inputseed="237" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 238 time_dep_psv2.sub 
-VARS 238 inputseed="238" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 238 inputseed="238" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 239 time_dep_psv2.sub 
-VARS 239 inputseed="239" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 239 inputseed="239" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 240 time_dep_psv2.sub 
-VARS 240 inputseed="240" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 240 inputseed="240" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 241 time_dep_psv2.sub 
-VARS 241 inputseed="241" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 241 inputseed="241" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 242 time_dep_psv2.sub 
-VARS 242 inputseed="242" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 242 inputseed="242" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 243 time_dep_psv2.sub 
-VARS 243 inputseed="243" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 243 inputseed="243" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 244 time_dep_psv2.sub 
-VARS 244 inputseed="244" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 244 inputseed="244" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 245 time_dep_psv2.sub 
-VARS 245 inputseed="245" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 245 inputseed="245" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 246 time_dep_psv2.sub 
-VARS 246 inputseed="246" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 246 inputseed="246" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 247 time_dep_psv2.sub 
-VARS 247 inputseed="247" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 247 inputseed="247" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 248 time_dep_psv2.sub 
-VARS 248 inputseed="248" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 248 inputseed="248" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 249 time_dep_psv2.sub 
-VARS 249 inputseed="249" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 249 inputseed="249" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 250 time_dep_psv2.sub 
-VARS 250 inputseed="250" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 250 inputseed="250" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 251 time_dep_psv2.sub 
-VARS 251 inputseed="251" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 251 inputseed="251" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 252 time_dep_psv2.sub 
-VARS 252 inputseed="252" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 252 inputseed="252" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 253 time_dep_psv2.sub 
-VARS 253 inputseed="253" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 253 inputseed="253" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 254 time_dep_psv2.sub 
-VARS 254 inputseed="254" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 254 inputseed="254" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 255 time_dep_psv2.sub 
-VARS 255 inputseed="255" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 255 inputseed="255" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 256 time_dep_psv2.sub 
-VARS 256 inputseed="256" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 256 inputseed="256" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 257 time_dep_psv2.sub 
-VARS 257 inputseed="257" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 257 inputseed="257" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 258 time_dep_psv2.sub 
-VARS 258 inputseed="258" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 258 inputseed="258" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 259 time_dep_psv2.sub 
-VARS 259 inputseed="259" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 259 inputseed="259" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 260 time_dep_psv2.sub 
-VARS 260 inputseed="260" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 260 inputseed="260" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 261 time_dep_psv2.sub 
-VARS 261 inputseed="261" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 261 inputseed="261" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 262 time_dep_psv2.sub 
-VARS 262 inputseed="262" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 262 inputseed="262" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 263 time_dep_psv2.sub 
-VARS 263 inputseed="263" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 263 inputseed="263" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 264 time_dep_psv2.sub 
-VARS 264 inputseed="264" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 264 inputseed="264" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 265 time_dep_psv2.sub 
-VARS 265 inputseed="265" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 265 inputseed="265" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 266 time_dep_psv2.sub 
-VARS 266 inputseed="266" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 266 inputseed="266" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 267 time_dep_psv2.sub 
-VARS 267 inputseed="267" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 267 inputseed="267" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 268 time_dep_psv2.sub 
-VARS 268 inputseed="268" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 268 inputseed="268" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 269 time_dep_psv2.sub 
-VARS 269 inputseed="269" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 269 inputseed="269" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 270 time_dep_psv2.sub 
-VARS 270 inputseed="270" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 270 inputseed="270" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 271 time_dep_psv2.sub 
-VARS 271 inputseed="271" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 271 inputseed="271" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 272 time_dep_psv2.sub 
-VARS 272 inputseed="272" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 272 inputseed="272" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 273 time_dep_psv2.sub 
-VARS 273 inputseed="273" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 273 inputseed="273" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 274 time_dep_psv2.sub 
-VARS 274 inputseed="274" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 274 inputseed="274" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 275 time_dep_psv2.sub 
-VARS 275 inputseed="275" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 275 inputseed="275" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 276 time_dep_psv2.sub 
-VARS 276 inputseed="276" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 276 inputseed="276" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 277 time_dep_psv2.sub 
-VARS 277 inputseed="277" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 277 inputseed="277" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 278 time_dep_psv2.sub 
-VARS 278 inputseed="278" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 278 inputseed="278" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 279 time_dep_psv2.sub 
-VARS 279 inputseed="279" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 279 inputseed="279" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 280 time_dep_psv2.sub 
-VARS 280 inputseed="280" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 280 inputseed="280" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 281 time_dep_psv2.sub 
-VARS 281 inputseed="281" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 281 inputseed="281" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 282 time_dep_psv2.sub 
-VARS 282 inputseed="282" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 282 inputseed="282" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 283 time_dep_psv2.sub 
-VARS 283 inputseed="283" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 283 inputseed="283" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 284 time_dep_psv2.sub 
-VARS 284 inputseed="284" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 284 inputseed="284" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 285 time_dep_psv2.sub 
-VARS 285 inputseed="285" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 285 inputseed="285" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 286 time_dep_psv2.sub 
-VARS 286 inputseed="286" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 286 inputseed="286" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 287 time_dep_psv2.sub 
-VARS 287 inputseed="287" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 287 inputseed="287" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 288 time_dep_psv2.sub 
-VARS 288 inputseed="288" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 288 inputseed="288" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 289 time_dep_psv2.sub 
-VARS 289 inputseed="289" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 289 inputseed="289" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 290 time_dep_psv2.sub 
-VARS 290 inputseed="290" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 290 inputseed="290" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 291 time_dep_psv2.sub 
-VARS 291 inputseed="291" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 291 inputseed="291" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 292 time_dep_psv2.sub 
-VARS 292 inputseed="292" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 292 inputseed="292" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 293 time_dep_psv2.sub 
-VARS 293 inputseed="293" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 293 inputseed="293" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 294 time_dep_psv2.sub 
-VARS 294 inputseed="294" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 294 inputseed="294" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 295 time_dep_psv2.sub 
-VARS 295 inputseed="295" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 295 inputseed="295" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 296 time_dep_psv2.sub 
-VARS 296 inputseed="296" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 296 inputseed="296" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 297 time_dep_psv2.sub 
-VARS 297 inputseed="297" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 297 inputseed="297" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 298 time_dep_psv2.sub 
-VARS 298 inputseed="298" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 298 inputseed="298" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 299 time_dep_psv2.sub 
-VARS 299 inputseed="299" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 299 inputseed="299" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 300 time_dep_psv2.sub 
-VARS 300 inputseed="300" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 300 inputseed="300" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 301 time_dep_psv2.sub 
-VARS 301 inputseed="301" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 301 inputseed="301" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 302 time_dep_psv2.sub 
-VARS 302 inputseed="302" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 302 inputseed="302" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 303 time_dep_psv2.sub 
-VARS 303 inputseed="303" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 303 inputseed="303" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 304 time_dep_psv2.sub 
-VARS 304 inputseed="304" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 304 inputseed="304" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 305 time_dep_psv2.sub 
-VARS 305 inputseed="305" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 305 inputseed="305" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 306 time_dep_psv2.sub 
-VARS 306 inputseed="306" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 306 inputseed="306" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 307 time_dep_psv2.sub 
-VARS 307 inputseed="307" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 307 inputseed="307" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 308 time_dep_psv2.sub 
-VARS 308 inputseed="308" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 308 inputseed="308" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 309 time_dep_psv2.sub 
-VARS 309 inputseed="309" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 309 inputseed="309" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 310 time_dep_psv2.sub 
-VARS 310 inputseed="310" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 310 inputseed="310" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 311 time_dep_psv2.sub 
-VARS 311 inputseed="311" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 311 inputseed="311" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 312 time_dep_psv2.sub 
-VARS 312 inputseed="312" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 312 inputseed="312" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 313 time_dep_psv2.sub 
-VARS 313 inputseed="313" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 313 inputseed="313" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 314 time_dep_psv2.sub 
-VARS 314 inputseed="314" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 314 inputseed="314" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 315 time_dep_psv2.sub 
-VARS 315 inputseed="315" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 315 inputseed="315" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 316 time_dep_psv2.sub 
-VARS 316 inputseed="316" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 316 inputseed="316" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 317 time_dep_psv2.sub 
-VARS 317 inputseed="317" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 317 inputseed="317" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 318 time_dep_psv2.sub 
-VARS 318 inputseed="318" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 318 inputseed="318" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 319 time_dep_psv2.sub 
-VARS 319 inputseed="319" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 319 inputseed="319" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 320 time_dep_psv2.sub 
-VARS 320 inputseed="320" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 320 inputseed="320" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 321 time_dep_psv2.sub 
-VARS 321 inputseed="321" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 321 inputseed="321" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 322 time_dep_psv2.sub 
-VARS 322 inputseed="322" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 322 inputseed="322" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 323 time_dep_psv2.sub 
-VARS 323 inputseed="323" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 323 inputseed="323" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 324 time_dep_psv2.sub 
-VARS 324 inputseed="324" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 324 inputseed="324" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 325 time_dep_psv2.sub 
-VARS 325 inputseed="325" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 325 inputseed="325" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 326 time_dep_psv2.sub 
-VARS 326 inputseed="326" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 326 inputseed="326" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 327 time_dep_psv2.sub 
-VARS 327 inputseed="327" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 327 inputseed="327" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 328 time_dep_psv2.sub 
-VARS 328 inputseed="328" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 328 inputseed="328" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 329 time_dep_psv2.sub 
-VARS 329 inputseed="329" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 329 inputseed="329" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 330 time_dep_psv2.sub 
-VARS 330 inputseed="330" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 330 inputseed="330" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 331 time_dep_psv2.sub 
-VARS 331 inputseed="331" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 331 inputseed="331" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 332 time_dep_psv2.sub 
-VARS 332 inputseed="332" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 332 inputseed="332" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 333 time_dep_psv2.sub 
-VARS 333 inputseed="333" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 333 inputseed="333" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 334 time_dep_psv2.sub 
-VARS 334 inputseed="334" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 334 inputseed="334" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 335 time_dep_psv2.sub 
-VARS 335 inputseed="335" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 335 inputseed="335" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 336 time_dep_psv2.sub 
-VARS 336 inputseed="336" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 336 inputseed="336" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 337 time_dep_psv2.sub 
-VARS 337 inputseed="337" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 337 inputseed="337" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 338 time_dep_psv2.sub 
-VARS 338 inputseed="338" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 338 inputseed="338" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 339 time_dep_psv2.sub 
-VARS 339 inputseed="339" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 339 inputseed="339" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 340 time_dep_psv2.sub 
-VARS 340 inputseed="340" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 340 inputseed="340" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 341 time_dep_psv2.sub 
-VARS 341 inputseed="341" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 341 inputseed="341" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 342 time_dep_psv2.sub 
-VARS 342 inputseed="342" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 342 inputseed="342" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 343 time_dep_psv2.sub 
-VARS 343 inputseed="343" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 343 inputseed="343" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 344 time_dep_psv2.sub 
-VARS 344 inputseed="344" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 344 inputseed="344" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 345 time_dep_psv2.sub 
-VARS 345 inputseed="345" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 345 inputseed="345" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 346 time_dep_psv2.sub 
-VARS 346 inputseed="346" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 346 inputseed="346" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 347 time_dep_psv2.sub 
-VARS 347 inputseed="347" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 347 inputseed="347" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 348 time_dep_psv2.sub 
-VARS 348 inputseed="348" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 348 inputseed="348" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 349 time_dep_psv2.sub 
-VARS 349 inputseed="349" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 349 inputseed="349" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 350 time_dep_psv2.sub 
-VARS 350 inputseed="350" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 350 inputseed="350" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 351 time_dep_psv2.sub 
-VARS 351 inputseed="351" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 351 inputseed="351" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 352 time_dep_psv2.sub 
-VARS 352 inputseed="352" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 352 inputseed="352" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 353 time_dep_psv2.sub 
-VARS 353 inputseed="353" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 353 inputseed="353" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 354 time_dep_psv2.sub 
-VARS 354 inputseed="354" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 354 inputseed="354" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 355 time_dep_psv2.sub 
-VARS 355 inputseed="355" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 355 inputseed="355" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 356 time_dep_psv2.sub 
-VARS 356 inputseed="356" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 356 inputseed="356" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 357 time_dep_psv2.sub 
-VARS 357 inputseed="357" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 357 inputseed="357" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 358 time_dep_psv2.sub 
-VARS 358 inputseed="358" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 358 inputseed="358" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 359 time_dep_psv2.sub 
-VARS 359 inputseed="359" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 359 inputseed="359" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 360 time_dep_psv2.sub 
-VARS 360 inputseed="360" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 360 inputseed="360" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 361 time_dep_psv2.sub 
-VARS 361 inputseed="361" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 361 inputseed="361" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 362 time_dep_psv2.sub 
-VARS 362 inputseed="362" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 362 inputseed="362" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 363 time_dep_psv2.sub 
-VARS 363 inputseed="363" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 363 inputseed="363" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 364 time_dep_psv2.sub 
-VARS 364 inputseed="364" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 364 inputseed="364" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 365 time_dep_psv2.sub 
-VARS 365 inputseed="365" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 365 inputseed="365" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 366 time_dep_psv2.sub 
-VARS 366 inputseed="366" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 366 inputseed="366" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 367 time_dep_psv2.sub 
-VARS 367 inputseed="367" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 367 inputseed="367" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 368 time_dep_psv2.sub 
-VARS 368 inputseed="368" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 368 inputseed="368" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 369 time_dep_psv2.sub 
-VARS 369 inputseed="369" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 369 inputseed="369" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 370 time_dep_psv2.sub 
-VARS 370 inputseed="370" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 370 inputseed="370" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 371 time_dep_psv2.sub 
-VARS 371 inputseed="371" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 371 inputseed="371" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 372 time_dep_psv2.sub 
-VARS 372 inputseed="372" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 372 inputseed="372" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 373 time_dep_psv2.sub 
-VARS 373 inputseed="373" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 373 inputseed="373" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 374 time_dep_psv2.sub 
-VARS 374 inputseed="374" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 374 inputseed="374" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 375 time_dep_psv2.sub 
-VARS 375 inputseed="375" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 375 inputseed="375" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 376 time_dep_psv2.sub 
-VARS 376 inputseed="376" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 376 inputseed="376" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 377 time_dep_psv2.sub 
-VARS 377 inputseed="377" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 377 inputseed="377" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 378 time_dep_psv2.sub 
-VARS 378 inputseed="378" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 378 inputseed="378" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 379 time_dep_psv2.sub 
-VARS 379 inputseed="379" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 379 inputseed="379" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 380 time_dep_psv2.sub 
-VARS 380 inputseed="380" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 380 inputseed="380" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 381 time_dep_psv2.sub 
-VARS 381 inputseed="381" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 381 inputseed="381" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 382 time_dep_psv2.sub 
-VARS 382 inputseed="382" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 382 inputseed="382" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 383 time_dep_psv2.sub 
-VARS 383 inputseed="383" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 383 inputseed="383" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 384 time_dep_psv2.sub 
-VARS 384 inputseed="384" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 384 inputseed="384" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 385 time_dep_psv2.sub 
-VARS 385 inputseed="385" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 385 inputseed="385" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 386 time_dep_psv2.sub 
-VARS 386 inputseed="386" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 386 inputseed="386" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 387 time_dep_psv2.sub 
-VARS 387 inputseed="387" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 387 inputseed="387" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 388 time_dep_psv2.sub 
-VARS 388 inputseed="388" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 388 inputseed="388" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 389 time_dep_psv2.sub 
-VARS 389 inputseed="389" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 389 inputseed="389" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 390 time_dep_psv2.sub 
-VARS 390 inputseed="390" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 390 inputseed="390" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 391 time_dep_psv2.sub 
-VARS 391 inputseed="391" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 391 inputseed="391" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 392 time_dep_psv2.sub 
-VARS 392 inputseed="392" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 392 inputseed="392" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 393 time_dep_psv2.sub 
-VARS 393 inputseed="393" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 393 inputseed="393" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 394 time_dep_psv2.sub 
-VARS 394 inputseed="394" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 394 inputseed="394" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 395 time_dep_psv2.sub 
-VARS 395 inputseed="395" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 395 inputseed="395" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 396 time_dep_psv2.sub 
-VARS 396 inputseed="396" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 396 inputseed="396" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 397 time_dep_psv2.sub 
-VARS 397 inputseed="397" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 397 inputseed="397" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 398 time_dep_psv2.sub 
-VARS 398 inputseed="398" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 398 inputseed="398" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 399 time_dep_psv2.sub 
-VARS 399 inputseed="399" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 399 inputseed="399" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 400 time_dep_psv2.sub 
-VARS 400 inputseed="400" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 400 inputseed="400" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 401 time_dep_psv2.sub 
-VARS 401 inputseed="401" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 401 inputseed="401" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 402 time_dep_psv2.sub 
-VARS 402 inputseed="402" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 402 inputseed="402" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 403 time_dep_psv2.sub 
-VARS 403 inputseed="403" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 403 inputseed="403" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 404 time_dep_psv2.sub 
-VARS 404 inputseed="404" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 404 inputseed="404" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 405 time_dep_psv2.sub 
-VARS 405 inputseed="405" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 405 inputseed="405" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 406 time_dep_psv2.sub 
-VARS 406 inputseed="406" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 406 inputseed="406" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 407 time_dep_psv2.sub 
-VARS 407 inputseed="407" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 407 inputseed="407" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 408 time_dep_psv2.sub 
-VARS 408 inputseed="408" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 408 inputseed="408" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 409 time_dep_psv2.sub 
-VARS 409 inputseed="409" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 409 inputseed="409" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 410 time_dep_psv2.sub 
-VARS 410 inputseed="410" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 410 inputseed="410" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 411 time_dep_psv2.sub 
-VARS 411 inputseed="411" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 411 inputseed="411" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 412 time_dep_psv2.sub 
-VARS 412 inputseed="412" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 412 inputseed="412" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 413 time_dep_psv2.sub 
-VARS 413 inputseed="413" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 413 inputseed="413" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 414 time_dep_psv2.sub 
-VARS 414 inputseed="414" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 414 inputseed="414" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 415 time_dep_psv2.sub 
-VARS 415 inputseed="415" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 415 inputseed="415" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 416 time_dep_psv2.sub 
-VARS 416 inputseed="416" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 416 inputseed="416" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 417 time_dep_psv2.sub 
-VARS 417 inputseed="417" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 417 inputseed="417" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 418 time_dep_psv2.sub 
-VARS 418 inputseed="418" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 418 inputseed="418" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 419 time_dep_psv2.sub 
-VARS 419 inputseed="419" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 419 inputseed="419" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 420 time_dep_psv2.sub 
-VARS 420 inputseed="420" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 420 inputseed="420" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 421 time_dep_psv2.sub 
-VARS 421 inputseed="421" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 421 inputseed="421" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 422 time_dep_psv2.sub 
-VARS 422 inputseed="422" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 422 inputseed="422" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 423 time_dep_psv2.sub 
-VARS 423 inputseed="423" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 423 inputseed="423" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 424 time_dep_psv2.sub 
-VARS 424 inputseed="424" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 424 inputseed="424" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 425 time_dep_psv2.sub 
-VARS 425 inputseed="425" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 425 inputseed="425" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 426 time_dep_psv2.sub 
-VARS 426 inputseed="426" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 426 inputseed="426" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 427 time_dep_psv2.sub 
-VARS 427 inputseed="427" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 427 inputseed="427" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 428 time_dep_psv2.sub 
-VARS 428 inputseed="428" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 428 inputseed="428" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 429 time_dep_psv2.sub 
-VARS 429 inputseed="429" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 429 inputseed="429" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 430 time_dep_psv2.sub 
-VARS 430 inputseed="430" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 430 inputseed="430" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 431 time_dep_psv2.sub 
-VARS 431 inputseed="431" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 431 inputseed="431" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 432 time_dep_psv2.sub 
-VARS 432 inputseed="432" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 432 inputseed="432" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 433 time_dep_psv2.sub 
-VARS 433 inputseed="433" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 433 inputseed="433" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 434 time_dep_psv2.sub 
-VARS 434 inputseed="434" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 434 inputseed="434" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 435 time_dep_psv2.sub 
-VARS 435 inputseed="435" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 435 inputseed="435" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 436 time_dep_psv2.sub 
-VARS 436 inputseed="436" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 436 inputseed="436" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 437 time_dep_psv2.sub 
-VARS 437 inputseed="437" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 437 inputseed="437" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 438 time_dep_psv2.sub 
-VARS 438 inputseed="438" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 438 inputseed="438" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 439 time_dep_psv2.sub 
-VARS 439 inputseed="439" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 439 inputseed="439" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 440 time_dep_psv2.sub 
-VARS 440 inputseed="440" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 440 inputseed="440" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 441 time_dep_psv2.sub 
-VARS 441 inputseed="441" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 441 inputseed="441" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 442 time_dep_psv2.sub 
-VARS 442 inputseed="442" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 442 inputseed="442" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 443 time_dep_psv2.sub 
-VARS 443 inputseed="443" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 443 inputseed="443" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 444 time_dep_psv2.sub 
-VARS 444 inputseed="444" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 444 inputseed="444" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 445 time_dep_psv2.sub 
-VARS 445 inputseed="445" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 445 inputseed="445" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 446 time_dep_psv2.sub 
-VARS 446 inputseed="446" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 446 inputseed="446" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 447 time_dep_psv2.sub 
-VARS 447 inputseed="447" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 447 inputseed="447" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 448 time_dep_psv2.sub 
-VARS 448 inputseed="448" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 448 inputseed="448" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 449 time_dep_psv2.sub 
-VARS 449 inputseed="449" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 449 inputseed="449" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 450 time_dep_psv2.sub 
-VARS 450 inputseed="450" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 450 inputseed="450" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 451 time_dep_psv2.sub 
-VARS 451 inputseed="451" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 451 inputseed="451" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 452 time_dep_psv2.sub 
-VARS 452 inputseed="452" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 452 inputseed="452" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 453 time_dep_psv2.sub 
-VARS 453 inputseed="453" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 453 inputseed="453" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 454 time_dep_psv2.sub 
-VARS 454 inputseed="454" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 454 inputseed="454" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 455 time_dep_psv2.sub 
-VARS 455 inputseed="455" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 455 inputseed="455" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 456 time_dep_psv2.sub 
-VARS 456 inputseed="456" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 456 inputseed="456" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 457 time_dep_psv2.sub 
-VARS 457 inputseed="457" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 457 inputseed="457" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 458 time_dep_psv2.sub 
-VARS 458 inputseed="458" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 458 inputseed="458" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 459 time_dep_psv2.sub 
-VARS 459 inputseed="459" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 459 inputseed="459" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 460 time_dep_psv2.sub 
-VARS 460 inputseed="460" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 460 inputseed="460" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 461 time_dep_psv2.sub 
-VARS 461 inputseed="461" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 461 inputseed="461" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 462 time_dep_psv2.sub 
-VARS 462 inputseed="462" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 462 inputseed="462" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 463 time_dep_psv2.sub 
-VARS 463 inputseed="463" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 463 inputseed="463" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 464 time_dep_psv2.sub 
-VARS 464 inputseed="464" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 464 inputseed="464" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 465 time_dep_psv2.sub 
-VARS 465 inputseed="465" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 465 inputseed="465" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 466 time_dep_psv2.sub 
-VARS 466 inputseed="466" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 466 inputseed="466" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 467 time_dep_psv2.sub 
-VARS 467 inputseed="467" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 467 inputseed="467" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 468 time_dep_psv2.sub 
-VARS 468 inputseed="468" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 468 inputseed="468" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 469 time_dep_psv2.sub 
-VARS 469 inputseed="469" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 469 inputseed="469" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 470 time_dep_psv2.sub 
-VARS 470 inputseed="470" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 470 inputseed="470" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 471 time_dep_psv2.sub 
-VARS 471 inputseed="471" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 471 inputseed="471" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 472 time_dep_psv2.sub 
-VARS 472 inputseed="472" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 472 inputseed="472" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 473 time_dep_psv2.sub 
-VARS 473 inputseed="473" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 473 inputseed="473" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 474 time_dep_psv2.sub 
-VARS 474 inputseed="474" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 474 inputseed="474" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 475 time_dep_psv2.sub 
-VARS 475 inputseed="475" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 475 inputseed="475" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 476 time_dep_psv2.sub 
-VARS 476 inputseed="476" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 476 inputseed="476" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 477 time_dep_psv2.sub 
-VARS 477 inputseed="477" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 477 inputseed="477" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 478 time_dep_psv2.sub 
-VARS 478 inputseed="478" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 478 inputseed="478" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 479 time_dep_psv2.sub 
-VARS 479 inputseed="479" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 479 inputseed="479" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 480 time_dep_psv2.sub 
-VARS 480 inputseed="480" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 480 inputseed="480" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 481 time_dep_psv2.sub 
-VARS 481 inputseed="481" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 481 inputseed="481" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 482 time_dep_psv2.sub 
-VARS 482 inputseed="482" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 482 inputseed="482" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 483 time_dep_psv2.sub 
-VARS 483 inputseed="483" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 483 inputseed="483" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 484 time_dep_psv2.sub 
-VARS 484 inputseed="484" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 484 inputseed="484" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 485 time_dep_psv2.sub 
-VARS 485 inputseed="485" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 485 inputseed="485" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 486 time_dep_psv2.sub 
-VARS 486 inputseed="486" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 486 inputseed="486" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 487 time_dep_psv2.sub 
-VARS 487 inputseed="487" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 487 inputseed="487" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 488 time_dep_psv2.sub 
-VARS 488 inputseed="488" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 488 inputseed="488" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 489 time_dep_psv2.sub 
-VARS 489 inputseed="489" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 489 inputseed="489" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 490 time_dep_psv2.sub 
-VARS 490 inputseed="490" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 490 inputseed="490" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 491 time_dep_psv2.sub 
-VARS 491 inputseed="491" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 491 inputseed="491" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 492 time_dep_psv2.sub 
-VARS 492 inputseed="492" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 492 inputseed="492" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 493 time_dep_psv2.sub 
-VARS 493 inputseed="493" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 493 inputseed="493" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 494 time_dep_psv2.sub 
-VARS 494 inputseed="494" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 494 inputseed="494" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 495 time_dep_psv2.sub 
-VARS 495 inputseed="495" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 495 inputseed="495" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 496 time_dep_psv2.sub 
-VARS 496 inputseed="496" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 496 inputseed="496" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 497 time_dep_psv2.sub 
-VARS 497 inputseed="497" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 497 inputseed="497" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 498 time_dep_psv2.sub 
-VARS 498 inputseed="498" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 498 inputseed="498" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"
 JOB 499 time_dep_psv2.sub 
-VARS 499 inputseed="499" nevents="14.2" gamma="2.2" t0="57017.01" dt="79.0" outputdir="/data/user/wluszczak/KDE_csky/sigtrials/psv3/"
+VARS 499 inputseed="499" nevents="14.6" gamma="2.2" t0="57017.01" dt="158.0" outputdir="/data/user/wluszczak/KDE_csky/reproducibility/"

@@ -128,7 +128,7 @@ mtr = cy.conf.get_multiflare_trial_runner(ana=ana, src=srcs, threshold=100., ext
 
 all_fits = []
 multiple_trials = []
-for i in range(0,1):
+for i in range(0,100):
     t1 = time.time()
     trialseed = (inputseed*100)+i
     if nevts!=0.:
