@@ -19,7 +19,7 @@ python Notebooks/generate_fitbias_data_tint.py
 
 This will create trials that are used for the time-integrated fit bias checks. This script takes several hours to run, so it's best to run it in the background while working on something else. 
 
-Once both this script has finished running, you should be able to run the included `Notebooks/FitBias.ipynb` notebook to reproduce the relevant plots. Note that for the time dependent fits this notebook makes use of pre-generated trials that exist in `/data/user/wluszczak/KDE_csky/reproducibility/`. If you wish, you can generate your own version of these trials using the cluster and the provided scripts. The following script will create a dagman that can be submitted to the cluster to generate your own version of these trials:
+Once both this script has finished running, your `Notebook` directory should have a whole bunch of new `.npy` files and you should be able to run the included `Notebooks/FitBias.ipynb` notebook to reproduce the relevant plots. Note that for the time dependent fits this notebook makes use of pre-generated trials that exist in `/data/user/wluszczak/KDE_csky/reproducibility/`. If you wish, you can generate your own version of these trials using the cluster and the provided scripts. The following script will create a dagman that can be submitted to the cluster to generate your own version of these trials:
 
 ```
 python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt) > my_fitbias_dagman.dag
@@ -41,8 +41,10 @@ condor_submit_dag my_fitbias_dagman.dag
 Once you have these trials generated, you might need to modify the python notebook to use your files instead of mine. This can be done by simply changing the `trialfile_dir` variable in the first cell:
 
 ```
-trialfile_dir = '$(directory where you told the dagman to write your files)'
+trialfile_dir = '$(outputdir)'
 ```
+
+Where `$(outputdir)` is the directory you told the dagman to write your files to in the script calls above. 
 
 ## Sensitivity Comparison
 To reproduce the sensitivity comparison plot, you will need to generate both background and injected signal trials for each data sample. To build dagmans that will generate background trials, use the included scripts:
