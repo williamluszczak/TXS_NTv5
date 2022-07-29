@@ -11,7 +11,13 @@ You will additionally need [the generic PDF ratio branch](https://github.com/ice
 
 ## Fit Bias Checks
 
-The first step in reproducing the fit bias plots is to run the included `generate_fitbias_data_tint.py` in the `Notebooks` directory. This will create trials that are used for the time-integrated fit bias checks. This script takes several hours to run, so it's best to run it in the background while working on something else. 
+The first step in reproducing the fit bias plots is to run the included `generate_fitbias_data_tint.py` in the `Notebooks` directory:
+
+```
+python Notebooks/generate_fitbias_data_tint.py
+```
+
+This will create trials that are used for the time-integrated fit bias checks. This script takes several hours to run, so it's best to run it in the background while working on something else. 
 
 Once both this script has finished running, you should be able to run the included `Notebooks/FitBias.ipynb` notebook to reproduce the relevant plots. Note that for the time dependent fits this notebook makes use of pre-generated trials that exist in `/data/user/wluszczak/KDE_csky/reproducibility/`. If you wish, you can generate your own version of these trials using the cluster and the provided scripts. The following script will create a dagman that can be submitted to the cluster to generate your own version of these trials:
 
