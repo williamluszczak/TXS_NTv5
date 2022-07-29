@@ -42,17 +42,17 @@ trialfile_dir = '$(directory where you told the dagman to write your files)'
 To reproduce the sensitivity comparison plot, you will need to generate both background and injected signal trials for each data sample. To build dagmans that will generate background trials, use the included scripts:
 
 ```
-python builddag_ntv5.py $(outputdir) 0 0 0 0
-python builddag_psv2.py $(outputdir) 0 0 0 0
-python builddag_psv3.py $(outputdir) 0 0 0 0 
+python builddag_ntv5.py $(outputdir) 0 0 0 0 > my_ntv5_bg.dag
+python builddag_psv2.py $(outputdir) 0 0 0 0 > my_psv2_bg.dag
+python builddag_psv3.py $(outputdir) 0 0 0 0 > my_psv3_bg.dag
 ```
 
 Where `$(outputdir)` is the place where you want output files to be written. You can additionally create dagmans for injected signal trials with:
 
 ```
-python builddag_sens_psv2.py $(outputdir) $(gamma) $(t0) $(dt)
-python builddag_sens_psv3.py $(outputdir) $(gamma) $(t0) $(dt)
-python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt)
+python builddag_sens_psv2.py $(outputdir) $(gamma) $(t0) $(dt) > my_psv2_sig.dag
+python builddag_sens_psv3.py $(outputdir) $(gamma) $(t0) $(dt) > my_psv3_sig.dag
+python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt) > my_ntv5_sig.dag
 ```
 
 Where:
