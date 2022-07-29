@@ -60,7 +60,7 @@ Where:
 - `$(t0)` is the central time at which flares are injected. To reproduce my plots, set this to `57017.01`
 - `$(dt)` is the injected flare duration. To reproduce my plots, set this to `158.0`
 
-Output files will be written to `$(outputdir)`. There will be multiple files for a single injected `ns` value, so you'll need to do a bit of file combination once all the jobs have finished running using the included script:
+Submit these dagmans to the cluster as normal (ensure that the *.sub submit files are also in the same directory you're submitting from). Output files will be written to `$(outputdir)`. There will be multiple files for a single injected `ns` value, so you'll need to do a bit of file combination once all the jobs have finished running using the included script:
 
 ```
 python combine_trialfiles.py $(globlist) $(outputfile)
