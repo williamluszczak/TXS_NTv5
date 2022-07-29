@@ -1,5 +1,5 @@
 # TXS_NTv5 Cross Checks
-Scripts for cross-checking the TXS 0506+056 untriggered flare analysis with NTv5
+Scripts for cross-checking the TXS 0506+056 untriggered flare analysis with the NorthernTracks v5 data sample (specifically NorthernTracks v005p001, though PointSourceTracks v002p03 and v003p02 are also used for comparison in the scripts included in this repository). 
 
 Prerequisites:
 You'll need to load a py3-v4.1.1 cvmfs environment:
