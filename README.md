@@ -1,6 +1,14 @@
 # TXS_NTv5 Cross Checks
 Scripts for cross-checking the TXS 0506+056 untriggered flare analysis with NTv5
 
+Prerequisites:
+You'll need to load a py3-v4.1.1 cvmfs environment:
+```
+eval `/cvmfs/icecube.opensciencegrid.org/py3-v4.1.1/setup.sh`
+```
+
+You will additionally need [the generic PDF ratio branch](https://github.com/icecube/csky/tree/feature/generic-pdf-ratio) of csky, which will (soon) be merged into `main` for csky version 1.1.10 (I'll update this readme when that happens)
+
 ## Fit Bias Checks
 
 The first step in reproducing the fit bias plots is to run the included `generate_fitbias_data_tint.py` in the `Notebooks` directory. This will create trials that are used for the time-integrated fit bias checks. This script takes several hours to run, so it's best to run it in the background while working on something else. 
