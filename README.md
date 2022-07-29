@@ -22,7 +22,7 @@ python builddag_sens_ntv5.py $(outputdir) $(gamma) $(t0) $(dt) > my_fitbias_dagm
 Where:
 - `$(outputdir)` is the directory you want outputfiles to be written to (ideally somewhere in your `/data/user/`)
 - `$(gamma)` is the spectral index you want to simulate. To reproduce the fit bias plots I have show, set this to `2.0`
-- `$(t0) is the central time (MJD) of the flare being simulated. To reproduce my plots, set this to `57017.01`
+- `$(t0)` is the central time (MJD) of the flare being simulated. To reproduce my plots, set this to `57017.01`
 - `$(dt) is the flare duration. To reproduce my plots, set this to `10.0`
 
 I've included an example dagman `Notebooks/sens_ntv5.dag` to give you an idea of what this should look like. You dagman should be exactly the same, but `$(outputdir)` should point to somewhere where you have write access (ideally somewhere on your `/data/user/`). 
